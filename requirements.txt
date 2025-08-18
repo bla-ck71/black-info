@@ -1,6 +1,8 @@
-Flask
-Gunicorn
-user_agent
-requests
-pycryptodome
-protobuf
+Flask==2.3.2
+Flask-Cors==3.0.10
+httpx==0.24.1
+protobuf==4.23.4
+cachetools==5.3.1
+pycryptodome==3.19.0
+asyncio==3.4.3
+python-dotenv==1.0.0
